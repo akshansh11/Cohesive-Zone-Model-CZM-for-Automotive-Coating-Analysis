@@ -3,4 +3,4 @@ numpy
 Pillow
 Matplotlib
 streamlit
-
+plotly
